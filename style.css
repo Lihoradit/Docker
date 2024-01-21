@@ -1,0 +1,154 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 51px;
+}
+
+body {
+    background: #FFF;
+    font-family: Josefin Sans;
+}
+
+.logo {
+    width: 35px;
+    height: 40px;
+    flex-shrink: 0;
+}
+
+.links {
+    justify-content: end;
+}
+
+.head_content {
+    color: #000;
+    font-family: Josefin Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.head_content1 {
+    color: #F25822;
+    font-family: Josefin Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.head_content2 {
+    color: #FFF;
+
+    font-family: Josefin Sans;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.button {
+    width: 120px;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 30px;
+    background: #F25822;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.head_title {
+    color: #000;
+    font-family: Josefin Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    color: #F25822;
+    font-family: Josefin Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.content {
+    margin-top: 116px;
+    justify-content: space-around;
+}
+
+.title {
+    color: #000;
+    font-family: Josefin Sans;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.text {
+    color: #888;
+    font-family: Josefin Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.button2 {
+    border-radius: 50px;
+    width: 140px;
+    height: 50px;
+    flex-shrink: 0;
+    background: #F25822;
+    box-shadow: 4px 4px 8px 0px rgba(242, 88, 34, 0.20);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.button_content2 {
+    color: #FFF;
+    font-family: Josefin Sans;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.icon {
+    width: 30px;
+    height: 30px;
+    flex-shrink: 0;
+}
+
+.text2 {
+    color: #AAA;
+    font-family: Josefin Sans;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.tools{
+    margin-top: 97px;
+    margin-bottom: 97px;
+    margin-left: 320px;
+    margin-right: 320px;
+    gap: 48px;
+    display: flex;
+    justify-content: space-around;
+}
+.icon_tools {
+    width: 160px;
+    height: 50px;
+    flex-shrink: 0;
+}
