@@ -4,10 +4,7 @@
     text-decoration: none;
 }
 
-.center {
-    padding-right: calc(50% - 642px);
-    padding-left: calc(50% - 642px);
-}
+
 
 header {
     display: flex;
@@ -89,6 +86,7 @@ body {
     margin-top: 116px;
     display: flex;
     flex-direction: row;
+    align-items: center;
 }
 
 .title {
@@ -99,6 +97,7 @@ body {
     font-weight: 400;
     line-height: normal;
 }
+
 
 .text {
     color: #888;
