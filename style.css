@@ -4,7 +4,10 @@
     text-decoration: none;
 }
 
-
+.center{
+    padding-left: calc(50% - 960px);
+    padding-right: calc(50% - 960px);
+}
 header {
     display: flex;
     align-items: center;
