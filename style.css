@@ -105,6 +105,10 @@ body {
     padding-left: 140px;
     padding-right: 140px;
 }
+.content_title{
+    display: flex;
+    flex-direction: column;
+}
 
 .title {
     color: #000;
@@ -175,10 +179,10 @@ body {
 .eclipse {
     width: 314px;
     height: 76px;
-    border-radius: 314px;
+    border-radius: 300px/270px;
     border: 1px solid #F25822;
     position: absolute;
-    top: 266px;
+    top: 300px;
     left: 120px;
     
 }
