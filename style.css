@@ -108,6 +108,7 @@ body {
 .content_title{
     display: flex;
     flex-direction: column;
+    padding-right: auto;
 }
 
 .title {
@@ -117,6 +118,7 @@ body {
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+    padding-bottom: 20px;
 }
 
 
@@ -127,6 +129,7 @@ body {
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+    padding-bottom: 32px;
 }
 
 .button2 {
@@ -182,7 +185,7 @@ body {
     border-radius: 300px/270px;
     border: 1px solid #F25822;
     position: absolute;
-    top: 300px;
+    top: 270px;
     left: 120px;
     
 }
